@@ -17,7 +17,9 @@ blocks:
     content: |
       # AI Event Entertainment for Corporate Events, Exhibitions & Brand Activations
 
-      Interactive AI experiences that draw crowds, capture qualified leads and put your brand in every photo — fully staffed, fully insured, delivered across the UK and worldwide.
+      We build interactive AI experiences that pull a crowd and put your brand
+      in every photo. Every activation is fully staffed and insured, and we
+      deliver across the UK and further afield.
     buttons:
       - text: Explore the experiences
         href: /experiences/
@@ -32,7 +34,7 @@ blocks:
     height: 46px
     speed: 34s
     intro_content: |
-      ### Trusted by brand, marketing and event teams
+      ### A few of the teams we've worked with
     items:
       - { image: /images/client-nova.png, alt: Nova }
       - { image: /images/client-vertex.png, alt: Vertex }
@@ -45,9 +47,9 @@ blocks:
 
   - type: stats
     intro_content: |
-      ## Engagement you can measure
-      We don't just entertain — we deliver footfall, data and reach that
-      stand up in a post-event report.
+      ## Numbers that hold up in a post-event report
+      We're after the metrics that prove an activation earned its budget -
+      footfall, shares, opt-in leads, and the rest of it.
     items:
       - { value: "500+", label: Events delivered }
       - { value: "1.2M+", label: Guest interactions }
@@ -57,22 +59,22 @@ blocks:
   - type: features
     center: true
     intro_content: |
-      ## Why brands choose AI Entertainment
-      Premium, fully-managed AI activations designed around one goal:
-      getting your audience to lean in, take part and share.
+      ## Why brands come to us
+      We design and run each activation end to end, built around what you
+      actually need the event to achieve when the report's being written.
     items:
       - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.7 4.8L18.5 9.5l-4.8 1.7L12 16l-1.7-4.8L5.5 9.5l4.8-1.7z"/><path d="M19 14l.6 1.8 1.9.6-1.9.6L19 19l-.6-2-1.9-.6 1.9-.6z"/></svg>'
         name: On-brand by design
-        description: Every portrait, print and share is wrapped in your logo, colours and campaign hashtag — your brand in thousands of pockets.
+        description: Every portrait, print and share comes out wrapped in your logo, colours and campaign hashtag, so your brand ends up in a few thousand pockets by the end of the night.
       - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0"/><path d="M16 5.2a3.2 3.2 0 0 1 0 6.1"/><path d="M17.6 14.2A5.5 5.5 0 0 1 20.5 19"/></svg>'
         name: Crowds & footfall
-        description: Showstopping technology that stops people mid-aisle, builds a queue at your stand and keeps them talking long after.
+        description: The kit is built to stop people mid-aisle and build a queue at your stand, and they tend to still be talking about it the week after.
       - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="M7 15l4-4 3 3 5-6"/></svg>'
         name: Real leads & data
-        description: Opt-in data capture built into the experience, so marketing leaves with qualified leads — not just a memory card of photos.
+        description: Opt-in data capture is built into the experience, so your marketing team goes home with qualified leads rather than just a folder full of photos.
       - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.6-3 7.6-7 9-4-1.4-7-4.4-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>'
         name: Fully managed & insured
-        description: Trained event staff, public liability insurance and PAT-tested kit. We arrive, set up, run the day and pack down. You relax.
+        description: We bring trained event staff, public liability insurance and PAT-tested kit. We come in, get set up, run the day and pack it all down again, so there's nothing for you to worry about on the logistics.
 
   - type: items
     collection: products
@@ -80,9 +82,8 @@ blocks:
     image_aspect_ratio: 4/3
     intro_content: |
       ## Our AI experiences
-      A growing range of interactive AI activations — pick one as a hero
-      attraction, or combine several into a branded experience zone. Swipe
-      through the full range below.
+      The range keeps growing. Pick a single hero attraction, or put a few
+      together into a branded experience zone - swipe through the lot below.
 
   - type: split-image
     figure_src: /images/photo-booth.jpg
@@ -91,14 +92,15 @@ blocks:
     content: |
       ## From brief to standout activation in three steps
 
-      **1. We learn your goals.** Footfall, leads, social reach or pure
-      wow-factor — we start with the outcome you need from the event.
+      **1. We learn your goals.** Footfall, leads, social reach, or just
+      something people remember - we start with what you actually need out of
+      the event.
 
-      **2. We brand the experience.** Your logo, colours, campaign message
-      and data-capture flow are built into every interaction and every share.
+      **2. We brand the experience.** Your logo, colours, campaign message and
+      data-capture flow get built into every interaction and every share.
 
-      **3. We run the day.** Our trained team delivers everything on-site, then
-      sends you the photos, opt-in data and engagement stats afterwards.
+      **3. We run the day.** Our trained team runs everything on the day, then
+      sends you the photos, the opt-in data and the engagement stats afterwards.
     button:
       text: Plan your event
       href: /contact/
@@ -112,15 +114,15 @@ blocks:
       ## 800+ leads in two days at a London exhibition
 
       A global tech brand needed their exhibition stand to stop traffic and
-      capture serious leads. We deployed **Sketch AI** with a fully branded
+      capture serious leads. We put **Sketch AI** on it with a fully branded
       portrait, an on-screen campaign message and an opt-in data flow.
 
       - **800+ opt-in leads** captured over two days
       - **3,400 branded portraits** shared to social by guests
       - **The busiest stand in the hall**, by the organiser's own count
 
-      Proof that the right AI experience is a marketing channel, not just a
-      crowd-pleaser.
+      It's a decent argument for treating the right AI experience as a genuine
+      marketing channel, not just something to keep the stand busy.
     button:
       text: See the experiences
       href: /experiences/
@@ -128,7 +130,7 @@ blocks:
   - type: section-header
     intro: |
       ## What our clients say
-      Event managers, agencies and brand teams on what it's like to work with us.
+      Event managers, agencies and brand teams on what it's like working with us.
 
   - type: reviews
     minimum_rating: 4
@@ -139,29 +141,30 @@ blocks:
     horizontal: true
     intro_content: |
       ## Where to meet us
-      We're on the road across the UK — from London, Manchester and Birmingham
-      to Edinburgh, Bristol and Leeds. Come and try the experiences for yourself.
+      We're on the road most of the year, from London, Manchester and
+      Birmingham up to Edinburgh, and across to Bristol and Leeds. Come and try
+      the experiences for yourself.
 
   - type: faqs
     intro_content: |
       ## Frequently asked questions
     items:
       - question: What kinds of events do you work at?
-        answer: Corporate events, exhibitions and trade shows, brand activations, product launches, conferences, summer and Christmas parties, and private celebrations — across the UK and internationally.
+        answer: We work corporate events, exhibitions and trade shows, brand activations, product launches, conferences, summer and Christmas parties, and quite a few private celebrations - across the UK and abroad.
       - question: Can the experiences be branded to our campaign?
-        answer: Yes. Branding is the whole point. Your logo, colours, campaign message and hashtag are built into the on-screen experience, the prints and every digital share, so your brand travels home with every guest.
+        answer: Branding is more or less the whole point. Your logo, colours, campaign message and hashtag get built into the on-screen experience, the prints and every digital share, so your brand goes home with every guest.
       - question: Do you capture data and leads?
-        answer: We can. Each experience can include a GDPR-compliant, opt-in data-capture step, and we send through the leads and engagement stats after the event so your marketing team can measure ROI.
+        answer: We can, yes. Each experience can have a GDPR-compliant opt-in data-capture step built in, and we send through the leads and the engagement stats after the event so your marketing team can measure what it did.
       - question: Are you insured and is the equipment safe?
-        answer: Absolutely. We carry public liability insurance, all equipment is PAT-tested, and every activation is delivered by trained, professional event staff.
+        answer: Yes - we carry public liability insurance, all the equipment is PAT-tested, and every activation is run by trained event staff.
       - question: How far in advance should we book?
-        answer: Popular dates — especially in the summer and the run-up to Christmas — book up fast. Get in touch as early as you can and we'll hold your date while we shape the right experience.
+        answer: Popular dates book up fast, especially through summer and the run-up to Christmas. The earlier you can get in touch the better, and we'll hold your date while we work out the right experience for it.
 
   - type: cta
     content: |
       ## Let's make your next event the one people remember
-      Tell us the date, the audience and what success looks like — we'll
-      design an AI experience that delivers it.
+      Tell us the date, the audience and what success looks like, and we'll
+      design an AI experience around it.
     button:
       text: Talk to our team
       href: /contact/

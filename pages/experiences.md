@@ -17,9 +17,9 @@ blocks:
     content: |
       # AI experiences for events that people queue for
 
-      Choose a single hero attraction or combine several into a fully-branded
-      experience zone. Every one is staffed, insured and built around your
-      brand and your goals.
+      Pick a single hero attraction, or put several together into a fully-branded
+      experience zone. Every one is staffed, insured and built around your brand
+      and what you're trying to achieve.
   - type: items
     collection: products
     horizontal: true
@@ -29,8 +29,8 @@ blocks:
   - type: cta
     content: |
       ## Not sure which experience fits your event?
-      Tell us your audience, your venue and what success looks like — we'll
-      recommend the right mix.
+      Tell us your audience, your venue and what success looks like, and we'll
+      suggest the right mix.
     button:
       text: Talk to our team
       href: /contact/

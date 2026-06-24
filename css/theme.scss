@@ -79,7 +79,6 @@
 .site-logo {
   display: inline-flex;
   align-items: center;
-  margin-right: auto;
   padding: 0.1rem 0;
 }
 
@@ -96,9 +95,64 @@
   }
 }
 
+body > main {
+  min-height: 100vh;
+}
+
+body.design-system.sticky-mobile-nav nav,
+body.design-system.horizontal-nav nav,
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+
+  @media screen and (max-width: 768px) {
+    padding-right: 60px;
+  }
+}
+
 .design-system nav {
   box-shadow: 0 8px 30px rgb(15 26 58 / 10%);
   border: 1px solid #e8edf8;
+}
+
+/* ---------------------------------------------------------------------------
+   Search box — slim variant for nav placement
+   ------------------------------------------------------------------------- */
+
+.design-system nav .search-box {
+  border-radius: 999px;
+  border-width: 1px;
+  background: var(--color-card-bg);
+  min-width: 0;
+
+  input[type="search"] {
+    padding: 4px 10px;
+    font-size: 13px;
+    line-height: 1.2;
+    width: 9rem;
+    background: transparent;
+  }
+
+  button {
+    padding: 0 10px;
+    font-size: 13px;
+    border-radius: 0 999px 999px 0;
+
+    svg {
+      width: 14px;
+      height: 14px;
+    }
+  }
+}
+
+/* search.md exists so the chobble-template auto-injects a "Search" link and a
+   nav-search form into the nav <ul>. We render our own search box via
+   navigation-end.html, so suppress those duplicates. */
+.design-system nav ul.nav-thumbnails > li.nav-search,
+.design-system nav ul.nav-thumbnails > li:has(> a[href="/search/"]) {
+  display: none;
 }
 
 /* ---------------------------------------------------------------------------

@@ -17,19 +17,19 @@ blocks:
     content: |
       # Plan your event with us
 
-      Tell us your date, your audience and what success looks like — we'll come
-      back fast with the right AI experience and a clear quote.
+      Tell us your date, your audience and what success looks like, and we'll
+      come back to you quickly with the right AI experience and a clear quote.
   - type: contact-form
     content: |
       ## Get a quote
 
       Prefer to talk it through? Message us on
-      [WhatsApp](https://wa.me/447795517857) or drop us the details below and
-      we'll be in touch the same working day.
+      [WhatsApp](https://wa.me/447795517857), or drop the details below and
+      we'll come back to you the same working day.
 
       - **WhatsApp / phone:** 07795 517857
       - **Coverage:** UK-wide and international
-      - **Lead time:** the earlier the better — peak dates book up fast
+      - **Lead time:** the earlier the better - peak dates book up fast
   - type: faqs
     intro_content: |
       ## Before you get in touch
@@ -37,7 +37,7 @@ blocks:
       - question: How quickly will I hear back?
         answer: We aim to reply the same working day with availability and a clear next step.
       - question: Do you travel?
-        answer: Yes — we deliver across the UK and take experiences internationally for the right brief.
+        answer: We do - we deliver across the UK and take experiences internationally for the right brief.
       - question: Can you work to our budget?
-        answer: Tell us your budget and goals and we'll recommend the mix of experiences that gets the most impact for it.
+        answer: Tell us your budget and your goals, and we'll recommend the mix of experiences that gets the most impact for it.
 ---
