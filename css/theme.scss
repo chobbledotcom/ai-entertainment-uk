@@ -1,2 +1,216 @@
 @charset "utf-8";
 @use "sass:color";
+
+/* =============================================================================
+   AI Entertainment UK — premium event-tech theme
+   Built on the Chobble design system. Palette taken from the brand logo:
+   deep navy, royal blue and periwinkle, on a clean cool-white canvas.
+   Headings use Space Grotesk (geometric, techy); body uses Inter.
+   ========================================================================== */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap");
+
+:root {
+  /* --- brand palette --------------------------------------------------- */
+  --brand-navy-deep: #0b1430;
+  --brand-navy: #142348;
+  --brand-royal: #2f57a7;
+  --brand-peri: #5f7dbe;
+  --brand-peri-light: #8aa2d6;
+
+  /* --- surfaces -------------------------------------------------------- */
+  --color-bg: #ffffff;
+  --body-background: #f5f7fc;
+  --body-background-alt: #eaeff9;
+  --color-card-bg: #ffffff;
+
+  /* --- text ------------------------------------------------------------ */
+  --color-text: #131d38;
+  --color-text-muted: #586389;
+
+  /* --- links / primary ------------------------------------------------- */
+  --color-link: #2f57a7;
+  --color-link-hover: #1c3c7d;
+  --color-secondary: #5f7dbe;
+  --color-tint: #e9eefa;
+  --color-accent: #e6ecf8;
+
+  /* --- contrast (used on dark sections + solid buttons) ---------------- */
+  --color-contrast-text: #ffffff;
+  --color-contrast-text-muted: rgb(255 255 255 / 82%);
+
+  /* --- cta / hero gradient wash ---------------------------------------- */
+  --color-gradient-start: rgb(47 87 167 / 14%);
+  --color-gradient-end: rgb(95 125 190 / 14%);
+
+  /* --- shape & depth --------------------------------------------------- */
+  --border: 1px solid #e1e7f3;
+  --border-radius: 14px;
+  --box-shadow: 0 14px 40px rgb(15 26 58 / 9%);
+
+  /* --- type ------------------------------------------------------------ */
+  --font-family-heading: "Space Grotesk", "Inter", system-ui, -apple-system,
+    "Segoe UI", Roboto, sans-serif;
+  --font-family-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+    sans-serif;
+
+  --width-content: 1200px;
+
+  --link-decoration: none;
+  --link-decoration-hover: underline;
+  --link-decoration-style: solid;
+}
+
+/* Tighten heading rhythm for a more confident, premium feel */
+.design-system {
+  h1,
+  h2,
+  h3 {
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Header / nav — clean white sticky pill that lets the navy brand badge sit
+   crisply on top. Logo is injected via _includes/navigation-start.html.
+   ------------------------------------------------------------------------- */
+
+.site-logo {
+  display: inline-flex;
+  align-items: center;
+  margin-right: auto;
+  padding: 0.1rem 0;
+}
+
+.site-logo img {
+  display: block;
+  height: 40px;
+  width: auto;
+  border-radius: 7px;
+}
+
+@media (max-width: 768px) {
+  .site-logo img {
+    height: 34px;
+  }
+}
+
+.design-system nav {
+  box-shadow: 0 8px 30px rgb(15 26 58 / 10%);
+  border: 1px solid #e8edf8;
+}
+
+/* ---------------------------------------------------------------------------
+   Hero / image-background — large, calm, premium. The first H1 reads big.
+   ------------------------------------------------------------------------- */
+
+.design-system .image-background figcaption {
+  .prose h1 {
+    font-size: clamp(2.4rem, 5.2vw, 4.1rem);
+    line-height: 1.04;
+  }
+
+  .prose > p:first-of-type {
+    font-size: clamp(1.05rem, 2vw, 1.35rem);
+    color: rgb(255 255 255 / 90%);
+    max-width: 46ch;
+    margin-inline: auto;
+  }
+}
+
+/* Badge pill — periwinkle, used on hero + section intros */
+.design-system .badge {
+  background: rgb(138 162 214 / 18%);
+  color: var(--brand-peri-light);
+  border: 1px solid rgb(138 162 214 / 35%);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* ---------------------------------------------------------------------------
+   Stats — big confident numbers in brand royal
+   ------------------------------------------------------------------------- */
+
+.design-system .stats {
+  .stat dd strong {
+    font-family: var(--font-family-heading);
+    color: var(--brand-royal);
+    letter-spacing: -0.03em;
+  }
+
+  .stat dt {
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.82rem;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Feature cards — periwinkle icon badges, soft lift
+   ------------------------------------------------------------------------- */
+
+.design-system .features .feature {
+  background: var(--color-card-bg);
+  border: 1px solid #e9eef8;
+  border-radius: var(--border-radius);
+  padding: 2rem 1.6rem;
+  box-shadow: 0 6px 22px rgb(15 26 58 / 5%);
+  transition: transform 200ms ease, box-shadow 200ms ease;
+}
+
+.design-system .features .feature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgb(15 26 58 / 11%);
+}
+
+.design-system .features .feature .icon {
+  background: linear-gradient(135deg, var(--brand-royal), var(--brand-peri));
+  color: #fff;
+  box-shadow: 0 8px 18px rgb(47 87 167 / 28%);
+}
+
+/* ---------------------------------------------------------------------------
+   Image cards (experiences) — premium hover, rounded media
+   ------------------------------------------------------------------------- */
+
+.design-system .items > li {
+  transition: transform 200ms ease;
+}
+
+.design-system .items > li:hover {
+  transform: translateY(-4px);
+}
+
+.design-system .items .image-link img {
+  border-radius: var(--border-radius);
+}
+
+/* ---------------------------------------------------------------------------
+   CTA — deep navy gradient panel, light text
+   ------------------------------------------------------------------------- */
+
+.design-system .cta {
+  background: linear-gradient(120deg, var(--brand-navy-deep), var(--brand-royal));
+  color: #fff;
+  border-radius: 22px;
+  box-shadow: 0 24px 60px rgb(15 26 58 / 22%);
+
+  .prose,
+  .prose * {
+    color: #fff;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Buttons — slightly bolder, pill-ish, premium
+   ------------------------------------------------------------------------- */
+
+.design-system .btn {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  border-radius: 999px;
+}
