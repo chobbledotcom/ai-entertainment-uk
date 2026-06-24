@@ -74,57 +74,15 @@ blocks:
         name: Fully managed & insured
         description: Trained event staff, public liability insurance and PAT-tested kit. We arrive, set up, run the day and pack down. You relax.
 
-  - type: image-cards
+  - type: items
+    collection: products
+    horizontal: true
     image_aspect_ratio: 4/3
     intro_content: |
       ## Our AI experiences
       A growing range of interactive AI activations — pick one as a hero
-      attraction, or combine several into a branded experience zone.
-    items:
-      - image: /images/sketch-ai.jpg
-        name: Sketch AI
-        description: An AI robot artist that turns guests into striking, branded portraits in under a minute — printed and shareable on the spot.
-        link: /experiences/sketch-ai/
-      - image: /images/photo-booth.jpg
-        name: AI Photo Booth
-        description: Reimagine every guest as cinematic, AI-styled artwork, delivered instantly to their phone with your branding baked in.
-        link: /experiences/ai-photo-booth/
-      - image: /images/hologram.jpg
-        name: 3D Hologram Experience
-        description: Full-body holographic avatars and slow-motion capture that make guests the hero of a cinematic, shareable moment.
-        link: /experiences/3d-hologram/
-      - image: /images/eric-ai.jpg
-        name: Meet E.R.I.C
-        description: A quick-witted conversational AI character that chats, jokes and reacts in real time — an unforgettable interactive host.
-        link: /experiences/eric-ai/
-      - image: /images/fortune-ai.jpg
-        name: Fortune AI
-        description: An AI fortune-teller delivering playful, personalised predictions as a printed keepsake your guests actually keep.
-        link: /experiences/fortune-ai/
-      - image: /images/prize-crane.jpg
-        name: Prize Crane
-        description: A nostalgic, fully-brandable claw machine loaded with your prizes — irresistible, competitive and endlessly replayable.
-        link: /experiences/prize-crane/
-      - image: /images/line2life.jpg
-        name: Line2Life
-        description: Guests draw a simple sketch and watch AI turn it into vibrant digital art — graffiti, watercolour, pixel art and more.
-        link: /experiences/line2life/
-      - image: /images/ai-avatar-studio.jpg
-        name: AI Avatar Studio
-        description: Transform guests into superheroes, explorers and fantastical characters in seconds — high-energy and endlessly shareable.
-        link: /experiences/ai-avatar-studio/
-      - image: /images/ai-graffiti-wall.jpg
-        name: AI Graffiti Wall
-        description: A giant interactive canvas where guests spray and draw, and AI animates their work into a bold, branded mural.
-        link: /experiences/ai-graffiti-wall/
-      - image: /images/ai-trivia.jpg
-        name: AI Trivia Host
-        description: A live, quick-witted AI quizmaster that gets a whole room playing together, with fully brandable rounds and live scoring.
-        link: /experiences/ai-trivia/
-      - image: /images/ai-magic-mirror.jpg
-        name: AI Magic Mirror
-        description: An interactive full-length mirror that greets, styles and surprises guests, capturing branded, shareable moments.
-        link: /experiences/ai-magic-mirror/
+      attraction, or combine several into a branded experience zone. Swipe
+      through the full range below.
 
   - type: split-image
     figure_src: /images/photo-booth.jpg

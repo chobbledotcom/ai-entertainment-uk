@@ -8,8 +8,11 @@ eleventyNavigation:
   key: Experiences
   order: 1
 blocks:
-  - type: hero
-    class: gradient
+  - type: image-background
+    image: /images/hero-experiences.jpg
+    image_alt: AI Entertainment UK interactive experiences
+    tint: true
+    parallax: true
     badge: Interactive AI Attractions
     content: |
       # AI experiences for events that people queue for
@@ -19,6 +22,7 @@ blocks:
       brand and your goals.
   - type: items
     collection: products
+    horizontal: true
     image_aspect_ratio: 4/3
     intro_content: |
       ## The full range

@@ -12,4 +12,5 @@ blocks:
       Showstopping, futuristic experiences — full-body holograms and
       conversational AI characters that make your guests the hero of the moment.
   - type: category-products
+    horizontal: true
 ---

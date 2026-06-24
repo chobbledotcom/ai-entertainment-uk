@@ -12,4 +12,5 @@ blocks:
       Nostalgic, fully-brandable games that get your guests competing, queuing
       and coming back for another go.
   - type: category-products
+    horizontal: true
 ---

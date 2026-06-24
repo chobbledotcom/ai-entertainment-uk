@@ -8,8 +8,11 @@ eleventyNavigation:
   key: About
   order: 2
 blocks:
-  - type: hero
-    class: gradient
+  - type: image-background
+    image: /images/hero-about.jpg
+    image_alt: AI Entertainment UK event technology
+    tint: true
+    parallax: true
     badge: About us
     content: |
       # Event technology, taken seriously

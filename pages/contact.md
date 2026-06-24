@@ -8,8 +8,11 @@ eleventyNavigation:
   key: Contact
   order: 4
 blocks:
-  - type: hero
-    class: gradient
+  - type: image-background
+    image: /images/hero-contact.jpg
+    image_alt: Plan your event with AI Entertainment UK
+    tint: true
+    parallax: true
     badge: Let's talk
     content: |
       # Plan your event with us
