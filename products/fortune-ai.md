@@ -17,15 +17,15 @@ blocks:
     content: |
       ## A little magic, fully branded
 
-      **Fortune AI** gives each guest a playful, personalised prediction —
+      **Fortune AI** gives each guest a playful, personalised prediction,
       printed as a branded keepsake they'll actually take home and keep. It's
-      charming, low-footprint and surprisingly effective at capturing data.
+      charming, low-footprint, and surprisingly good at capturing data.
 
       ### Why it earns its place
 
-      - **Keepsake** — a printed card with your branding outlives the event.
-      - **Capture** — an optional opt-in step gathers qualified data.
-      - **Compact** — a big draw that fits a small footprint.
+      - **Keepsake** - a printed card with your branding outlives the event.
+      - **Capture** - an optional opt-in step gathers qualified data.
+      - **Compact** - a big draw that fits a small footprint.
   - type: split-image
     figure_src: /images/fortune-ai.jpg
     figure_alt: Fortune AI printed prediction keepsake on a branded stand
@@ -33,12 +33,13 @@ blocks:
     content: |
       ## Stands, foyers and drinks receptions
 
-      A great fit where space is tight but you still want a memorable, branded
-      moment — exhibition stands, foyers and reception areas.
+      A good fit where space is tight but you still want a memorable, branded
+      moment - exhibition stands, foyers and reception areas.
   - type: cta
     content: |
       ## Add Fortune AI to your event
-      Let's brand the experience and the keepsakes around your campaign.
+      Tell us the campaign and we'll brand the experience and the keepsakes
+      around it.
     button:
       text: Enquire about Fortune AI
       href: /contact/

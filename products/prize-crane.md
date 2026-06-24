@@ -18,14 +18,15 @@ blocks:
       ## Nostalgia that pulls a crowd
 
       The **Prize Crane** is a fully-brandable claw machine loaded with your
-      prizes. It's competitive, nostalgic and endlessly replayable — a reliable
-      way to build a queue at your stand and keep people on it.
+      prizes. It's competitive, nostalgic and endlessly replayable, which
+      makes it a reliable way to build a queue at your stand and keep people
+      in it.
 
       ### Why it works
 
-      - **Footfall** — the universal pull of "just one more go".
-      - **Branding** — the whole cabinet and prizes carry your brand.
-      - **Data** — play-to-enter mechanics can capture opt-in leads.
+      - **Footfall** - the universal pull of "just one more go".
+      - **Branding** - the whole cabinet and the prizes carry your brand.
+      - **Data** - play-to-enter mechanics can capture opt-in leads.
   - type: split-image
     figure_src: /images/prize-crane.jpg
     figure_alt: Branded prize crane claw machine at an exhibition stand
@@ -38,7 +39,7 @@ blocks:
   - type: cta
     content: |
       ## Load the Prize Crane with your brand
-      Tell us your prizes and branding and we'll handle the rest.
+      Tell us the prizes and the branding and we'll handle the rest.
     button:
       text: Enquire about the Prize Crane
       href: /contact/

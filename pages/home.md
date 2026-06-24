@@ -63,16 +63,16 @@ blocks:
       We design and run each activation end to end, built around what you
       actually need the event to achieve when the report's being written.
     items:
-      - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.7 4.8L18.5 9.5l-4.8 1.7L12 16l-1.7-4.8L5.5 9.5l4.8-1.7z"/><path d="M19 14l.6 1.8 1.9.6-1.9.6L19 19l-.6-2-1.9-.6 1.9-.6z"/></svg>'
+      - icon: mdi:palette
         name: On-brand by design
         description: Every portrait, print and share comes out wrapped in your logo, colours and campaign hashtag, so your brand ends up in a few thousand pockets by the end of the night.
-      - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0"/><path d="M16 5.2a3.2 3.2 0 0 1 0 6.1"/><path d="M17.6 14.2A5.5 5.5 0 0 1 20.5 19"/></svg>'
+      - icon: mdi:account-group
         name: Crowds & footfall
         description: The kit is built to stop people mid-aisle and build a queue at your stand, and they tend to still be talking about it the week after.
-      - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="M7 15l4-4 3 3 5-6"/></svg>'
+      - icon: mdi:chart-line
         name: Real leads & data
         description: Opt-in data capture is built into the experience, so your marketing team goes home with qualified leads rather than just a folder full of photos.
-      - icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.6-3 7.6-7 9-4-1.4-7-4.4-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>'
+      - icon: mdi:shield-check-outline
         name: Fully managed & insured
         description: We bring trained event staff, public liability insurance and PAT-tested kit. We come in, get set up, run the day and pack it all down again, so there's nothing for you to worry about on the logistics.
 

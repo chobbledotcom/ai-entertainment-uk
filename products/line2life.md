@@ -17,10 +17,10 @@ blocks:
     content: |
       ## Anyone can be an artist
 
-      **Line2Life** invites guests to draw a simple sketch, then watches AI
-      transform it into vibrant digital artwork — graffiti, watercolour, pixel
-      art and more. It's hands-on, hugely creative, and every result is branded
-      and ready to print or share.
+      **Line2Life** asks guests to draw a simple sketch, then the AI turns it
+      into vibrant digital artwork - graffiti, watercolour, pixel art and so
+      on. It's hands-on, genuinely creative, and every result is branded and
+      ready to print or share.
   - type: cta
     content: |
       ## Add Line2Life to your event

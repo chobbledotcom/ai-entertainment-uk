@@ -11,9 +11,9 @@ blocks:
     content: |
       ## A full week of showcases
 
-      We're setting up in **Leeds** for a week of live showcases. Drop in to
-      try the full range — from the 3D Hologram to the AI Avatar Studio — and
-      plan your next activation with the team.
+      We're setting up in **Leeds** for a week of live showcases. Drop in and
+      try the full range - from the 3D Hologram to the AI Avatar Studio - and
+      plan your next activation with the team while you're there.
 
       [Reserve a slot](/contact/) to guarantee a hands-on demo.
   - type: cta

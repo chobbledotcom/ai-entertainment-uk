@@ -9,8 +9,9 @@ blocks:
     content: |
       # Photo & Print Experiences
 
-      Branded AI photo, portrait and print attractions that turn guests into
-      instant, shareable content — and turn footfall into qualified leads.
+      Branded AI photo, portrait and print attractions that turn your guests
+      into instant, shareable content - and turn footfall into qualified
+      leads.
   - type: category-products
     horizontal: true
 ---

@@ -11,9 +11,9 @@ blocks:
     content: |
       ## Now serving the South West
 
-      Catch us at **Brand Expo Bristol** to try our experiences first-hand and
-      chat about activations across the South West. We'll have Sketch AI and the
-      AI Photo Booth on stand.
+      Catch us at **Brand Expo Bristol** to try the experiences first-hand and
+      have a chat about activations across the South West. We'll have Sketch AI
+      and the AI Photo Booth on the stand.
 
       [Get in touch](/contact/) to book a slot.
   - type: cta

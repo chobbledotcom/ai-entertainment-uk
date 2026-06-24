@@ -11,15 +11,15 @@ blocks:
     content: |
       ## Bringing the experiences to Scotland
 
-      We're heading to **Edinburgh** for the Marketing Summit. Come and see how
-      branded AI experiences drive footfall and capture leads, and talk to the
-      team about activations across Scotland.
+      We're heading up to **Edinburgh** for the Marketing Summit. Come and see
+      how a branded AI experience drives footfall and captures leads, and have
+      a word with the team about activations across Scotland.
 
       [Arrange a time to meet](/contact/) in advance.
   - type: cta
     content: |
       ## Going to the summit?
-      Book a hands-on demo with our team.
+      Book a hands-on demo with the team.
     button:
       text: Arrange a demo
       href: /contact/

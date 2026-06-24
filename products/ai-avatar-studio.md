@@ -17,14 +17,15 @@ blocks:
     content: |
       ## Become the hero of the story
 
-      The **AI Avatar Studio** transforms guests into superheroes, explorers
-      and fantastical characters in seconds. Pick themes that match your
-      campaign, brand the outputs, and let guests share their alter-egos far
-      and wide.
+      The **AI Avatar Studio** turns guests into superheroes, explorers and
+      other fantastical characters in a few seconds. You pick the themes to
+      match your campaign, we brand the outputs, and guests share their
+      alter-egos far and wide.
   - type: cta
     content: |
       ## Add the AI Avatar Studio to your event
-      A high-energy, themeable attraction for activations and conferences.
+      A high-energy, themeable attraction that plays well at activations and
+      conferences.
     button:
       text: Enquire about the Avatar Studio
       href: /contact/

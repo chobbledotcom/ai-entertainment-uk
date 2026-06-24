@@ -18,12 +18,13 @@ blocks:
       ## Get the whole room playing
 
       The **AI Trivia Host** runs live, quick-witted quizzes that pull a whole
-      room together. Rounds and questions can be branded to your campaign, with
-      big-screen visuals and real-time scoring keeping the energy high.
+      room into the same game. We can brand the rounds and questions to your
+      campaign, with big-screen visuals and real-time scoring keeping the
+      energy up.
   - type: cta
     content: |
       ## Add the AI Trivia Host to your event
-      A brilliant icebreaker for conferences, dinners and parties.
+      A good icebreaker for conferences, dinners and parties.
     button:
       text: Enquire about the AI Trivia Host
       href: /contact/

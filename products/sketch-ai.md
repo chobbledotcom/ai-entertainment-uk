@@ -18,21 +18,21 @@ blocks:
       ## Turn every guest into branded, shareable art
 
       **Sketch AI** is our signature AI robot artist. Guests step up, strike a
-      pose, and within a minute walk away with a striking portrait — printed on
-      the spot and delivered to their phone, every one wrapped in your logo,
-      colours and campaign message.
+      pose, and within a minute they walk away with a striking portrait -
+      printed on the spot and delivered to their phone, every one wrapped in
+      your logo, colours and campaign message.
 
-      It's the kind of attraction that builds a queue, fills your stand and
-      keeps your brand circulating on social long after the doors close.
+      It's the sort of attraction that builds a queue, fills your stand, and
+      keeps your brand circulating on social well after the doors close.
 
       ### Why event teams love it
 
-      - **Footfall magnet** — the live robot draw stops people mid-aisle.
-      - **Real leads** — an optional, GDPR-compliant opt-in step captures
+      - **Footfall magnet** - the live robot draw stops people mid-aisle.
+      - **Real leads** - an optional, GDPR-compliant opt-in step captures
         qualified data as part of the experience.
-      - **Brand everywhere** — every print and share carries your branding home.
-      - **Measurable** — we send you the portraits, opt-in data and engagement
-        stats afterwards.
+      - **Brand everywhere** - every print and share carries your branding home.
+      - **Measurable** - we send you the portraits, the opt-in data and the
+        engagement stats afterwards.
   - type: split-image
     figure_src: /images/sketch-ai.jpg
     figure_alt: Sketch AI branded portrait activation at an exhibition
@@ -40,13 +40,14 @@ blocks:
     content: |
       ## Perfect for exhibitions, stands and activations
 
-      Sketch AI works beautifully as the hero attraction on an exhibition
-      stand, at a product launch, or anywhere you need to turn footfall into
-      data and shareable branded content.
+      Sketch AI works well as the hero attraction on an exhibition stand, at a
+      product launch, or anywhere you need to turn footfall into data and
+      shareable branded content.
   - type: cta
     content: |
       ## Bring Sketch AI to your next event
-      Check availability and we'll build a branded experience around your goals.
+      Give us the date and the goals, and we'll build a branded experience
+      around them.
     button:
       text: Enquire about Sketch AI
       href: /contact/

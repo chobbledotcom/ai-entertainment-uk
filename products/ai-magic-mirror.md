@@ -15,11 +15,12 @@ features:
 blocks:
   - type: markdown
     content: |
-      ## Mirror, mirror — with a little AI magic
+      ## Mirror, mirror - with a little AI magic
 
       The **AI Magic Mirror** greets guests, styles them with playful AI
       effects and captures branded, shareable moments. It's charming,
-      full-length and endlessly re-playable — a polished draw for any event.
+      full-length and endlessly re-playable, and it pulls a steady crowd at
+      any event.
   - type: cta
     content: |
       ## Add the AI Magic Mirror to your event

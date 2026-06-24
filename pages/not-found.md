@@ -10,7 +10,8 @@ blocks:
     content: |
       ## Page not found
 
-      Whoops! It looks like you followed an invalid link.
+      That link doesn't go anywhere, as far as we can tell.
 
-      **[Head back to the homepage](/)** or [explore our AI experiences](/experiences/).
+      **[Head back to the homepage](/)**, or have a look at [our AI
+      experiences](/experiences/) while you're here.
 ---

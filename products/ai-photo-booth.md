@@ -15,18 +15,18 @@ features:
 blocks:
   - type: markdown
     content: |
-      ## Not a photo booth — a content machine
+      ## Not a photo booth - a content machine
 
       Our **AI Photo Booth** transforms each guest into cinematic, AI-styled
-      artwork in seconds. Choose art styles that match your campaign, brand the
-      entire experience, and let guests share their creations instantly — your
-      logo travelling with every post.
+      artwork in seconds. You choose the art styles to match your campaign, we
+      brand the whole experience, and guests share their creations straight
+      away - your logo travelling with every post.
 
       ### What you get
 
-      - **Endless variety** — dozens of AI styles keep guests coming back.
-      - **Instant shares** — images land on guests' phones, ready to post.
-      - **Marketing value** — opt-in capture and branding turn fun into reach.
+      - **Endless variety** - dozens of AI styles keep guests coming back.
+      - **Instant shares** - images land on guests' phones, ready to post.
+      - **Marketing value** - opt-in capture and branding turn the fun into reach.
   - type: split-image
     figure_src: /images/photo-booth.jpg
     figure_alt: AI Photo Booth branded experience at a corporate party
@@ -34,13 +34,13 @@ blocks:
     content: |
       ## Parties, launches and activations
 
-      A perfect fit for summer and Christmas parties, product launches and
-      brand activations where you want guests creating and sharing branded
-      content all night.
+      A good fit for summer and Christmas parties, product launches and brand
+      activations where you want guests making and sharing branded content all
+      evening.
   - type: cta
     content: |
       ## Add the AI Photo Booth to your event
-      Tell us your date and theme and we'll brand it around your campaign.
+      Tell us the date and the theme and we'll brand it around your campaign.
     button:
       text: Enquire about the AI Photo Booth
       href: /contact/

@@ -11,15 +11,15 @@ blocks:
     content: |
       ## Turning footfall into data
 
-      Join us at **International Confex** to see how branded AI experiences
-      turn a busy hall into qualified leads. We'll walk you through real
-      results from recent exhibitions and activations.
+      Come and find us at **International Confex** to see how a branded AI
+      experience turns a busy hall into qualified leads. We'll walk you through
+      the real numbers from recent exhibitions and activations.
 
-      [Get in touch](/contact/) to arrange a time to talk.
+      [Get in touch](/contact/) to line up a time to talk.
   - type: cta
     content: |
       ## Going to Confex?
-      Book a no-pressure chat with our team.
+      Book a no-pressure chat with the team.
     button:
       text: Book a chat
       href: /contact/

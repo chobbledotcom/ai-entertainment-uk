@@ -11,11 +11,11 @@ blocks:
     content: |
       ## Plan a party people will talk about
 
-      Get ahead of the festive rush at our **Christmas Party Showcase**.
-      Preview the AI Photo Booth, Fortune AI and more, all dressed for the
-      season and ready to brand around your celebration.
+      Get ahead of the festive rush at our **Christmas Party Showcase**. Have
+      a look at the AI Photo Booth, Fortune AI and the rest of it, all dressed
+      for the season and ready to brand around your celebration.
 
-      Peak December dates go fast — [enquire now](/contact/) to hold yours.
+      Peak December dates go fast - [enquire now](/contact/) to hold yours.
   - type: cta
     content: |
       ## Sorting your Christmas party?

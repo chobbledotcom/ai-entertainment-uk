@@ -17,9 +17,10 @@ blocks:
     content: |
       ## A wall that brings your brand to life
 
-      The **AI Graffiti Wall** is a giant interactive canvas where guests spray
-      and draw, and AI animates their work into a bold, ever-changing mural.
-      It's a magnetic centrepiece — collaborative, photogenic and fully branded.
+      The **AI Graffiti Wall** is a giant interactive canvas - guests spray and
+      draw on it, and the AI animates their work into a bold, ever-changing
+      mural. It's a collaborative, photogenic centrepiece, and the whole thing
+      carries your branding.
   - type: cta
     content: |
       ## Bring the AI Graffiti Wall to your event

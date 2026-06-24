@@ -10,7 +10,8 @@ blocks:
     content: |
       ## Thank you
 
-      Your message has been sent — we'll be in touch very soon.
+      Your message has landed with us - we'll be in touch shortly.
 
-      In the meantime, why not [explore our AI experiences](/experiences/)?
+      If you fancy a look around while you wait, [the AI experiences are
+      here](/experiences/).
 ---
