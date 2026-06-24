@@ -1,12 +1,12 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "AI Entertainment",
+	"url": "https://aientertainment.uk",
 	"socials": {
 		"Facebook": null,
-		"Instagram": "https://www.instagram.com/chobbledotcom/",
+		"Instagram": "https://www.instagram.com/aientertainment.uk/",
 		"TikTok": null,
 		"Google": null,
-		"WhatsApp": null,
+		"WhatsApp": "https://wa.me/447795517857",
 		"RSS": "/feed.xml"
 	},
 	"sticky_mobile_nav": true,
